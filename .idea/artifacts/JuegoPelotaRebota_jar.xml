@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JuegoPelotaRebota:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JuegoPelotaRebota_jar</output-path>
+    <root id="archive" name="JuegoPelotaRebota.jar">
+      <element id="module-output" name="JuegoPelotaRebota" />
+    </root>
+  </artifact>
+</component>
